@@ -1,2 +1,6 @@
 # customer_behaviour_analysis
 Utilized Python for customer behavior analysis, employing data-driven insights to understand and optimize customer interactions, preferences, and decision-making processes.
+
+In this customer behavior analysis project conducted in Python, a comprehensive exploration of the dataset was performed. The numeric summary provided a concise overview of key statistical measures, aiding in understanding the central tendencies and variability of quantitative variables. Categorical summary statistics facilitated insights into the distribution of categorical features, shedding light on customer demographics or preferences.
+
+Further, the distribution of data was visually depicted using scatter plots for understanding relationships between variables, while histogram and bar plots were employed to unravel patterns and frequencies within numerical and categorical data, respectively. The inclusion of funnel chart analysis added a strategic layer, enabling a visual representation of the customer journey and identifying potential points of interest or drop-offs in the interaction process. This multifaceted approach not only facilitated a thorough understanding of customer behavior but also laid the groundwork for informed decision-making and targeted strategies in enhancing overall customer experience.
